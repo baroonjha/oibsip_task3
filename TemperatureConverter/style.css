@@ -1,0 +1,53 @@
+ *{
+
+    background-color: aquamarine;
+}
+.temp{
+    margin: auto;
+    height: 50vh;
+    width: 50vw;
+}
+h2{
+    color: brown;
+    text-align: center;
+}
+.label{
+    display: flex;
+    font-weight: 700;
+    font-size: 1em;
+    margin: 10px 10px;
+   
+}
+
+
+#input{
+    /* border: 2px solid green; */
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+select{
+    
+   margin-left: 10px;
+   border-radius: 5px;
+   border: 2px solid black;
+   font-weight: 600;
+}
+button{
+    padding: 4px 15px;
+    font-weight: bold;
+    margin: 15px 10px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+} 
+
+#res{
+   font-weight: bold;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+#result{
+    font-weight: bold;
+}
